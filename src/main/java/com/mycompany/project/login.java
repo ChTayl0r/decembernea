@@ -19,7 +19,7 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
-        getContentPane().setBackground(new java.awt.Color(255,255,255));
+        //getContentPane().setBackground(new java.awt.Color(255,255,255));
     }
 
     /**
@@ -82,7 +82,7 @@ public class login extends javax.swing.JFrame {
 
         bttnConfirm.setFont(new java.awt.Font("Impact", 0, 24)); // NOI18N
         bttnConfirm.setForeground(new java.awt.Color(72, 58, 58));
-        bttnConfirm.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/confirm button.PNG"))); // NOI18N
+        bttnConfirm.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/confirm button.PNG"))); // NOI18N
         bttnConfirm.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         bttnConfirm.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -96,14 +96,14 @@ public class login extends javax.swing.JFrame {
         bttnExit.setBackground(new java.awt.Color(222, 215, 200));
         bttnExit.setFont(new java.awt.Font("Impact", 0, 24)); // NOI18N
         bttnExit.setForeground(new java.awt.Color(72, 58, 58));
-        bttnExit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/exit button.PNG"))); // NOI18N
+        bttnExit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/exit button.PNG"))); // NOI18N
         bttnExit.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 bttnExitActionPerformed(evt);
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/logo.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/logo.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);

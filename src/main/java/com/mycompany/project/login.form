@@ -210,7 +210,7 @@
               <Color blue="3a" green="3a" red="48" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/images/images/confirm button.PNG"/>
+              <Image iconType="3" name="/images/confirm button.PNG"/>
             </Property>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -240,7 +240,7 @@
               <Color blue="3a" green="3a" red="48" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/images/images/exit button.PNG"/>
+              <Image iconType="3" name="/images/exit button.PNG"/>
             </Property>
           </Properties>
           <Events>
@@ -252,7 +252,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/images/images/logo.png"/>
+              <Image iconType="3" name="/images/logo.png"/>
             </Property>
           </Properties>
         </Component>
